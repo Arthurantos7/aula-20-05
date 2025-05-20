@@ -1,0 +1,20 @@
+/* src\pages\TelaInical\styles.css */
+
+.container {
+    margin-top: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f4f4;
+}
+
+.container h2 {
+    color: #081e80;  
+
+}
+
+.tela-inicial .container .link-registrar {
+    background-color: #081e80;
+    border: #081e80;
+}
